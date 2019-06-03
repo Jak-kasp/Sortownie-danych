@@ -1,0 +1,3 @@
+liczby 5000
+powtorzenia 5
+typ lista
